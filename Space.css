@@ -1,0 +1,18 @@
+* {
+	color:white;
+}
+
+body {
+	background-image:url(img/galaxy.jpg);
+}
+
+.text {
+	text-align: right;
+	
+}
+
+.img {
+	margin-left: 100px;
+}
+
+	
